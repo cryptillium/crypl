@@ -1,0 +1,29 @@
+{
+  "name": "crypl",
+  "version": "1.0.0",
+  "description": "Library for handling requests across various cryptocurrency exchanges",
+  "main": "crypl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptillium/crypl.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "exchanges",
+    "binance",
+    "poloniex",
+    "api",
+    "libraries",
+    "library",
+    "crypto"
+  ],
+  "author": "cryptillium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptillium/crypl/issues"
+  },
+  "homepage": "https://github.com/cryptillium/crypl#readme"
+}
